@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">VIPR-GS: vehicle interfaces in context</title>
+  <desc id="desc">The research examined how environmental conditions and task demands shape the suitability of touch, voice and gesture interfaces, using semi-structured interviews with 13 experienced participants.</desc>
+  <rect width="1600" height="900" rx="30" fill="#0d1216"/>
+  <g font-family="Arial, sans-serif">
+    <text x="86" y="95" fill="#e6b64b" font-size="29" letter-spacing="3">VIPR-GS · PUBLISHED INTERVIEW STUDY</text>
+    <text x="80" y="220" fill="#f1f3f5" font-size="82" font-weight="700">How do conditions shape</text>
+    <text x="80" y="320" fill="#f1f3f5" font-size="82" font-weight="700">interface suitability?</text>
+    <line x1="86" y1="379" x2="1514" y2="379" stroke="#344047" stroke-width="2"/>
+    <text x="86" y="454" fill="#aeb9c0" font-size="29" letter-spacing="2">CONTEXT</text>
+    <text x="86" y="520" fill="#f1f3f5" font-size="43">Environment</text>
+    <text x="86" y="578" fill="#f1f3f5" font-size="43">Task demands</text>
+    <path d="M420 530 H523 M502 509 L523 530 L502 551" fill="none" stroke="#e6b64b" stroke-width="4"/>
+    <text x="581" y="454" fill="#aeb9c0" font-size="29" letter-spacing="2">METHOD</text>
+    <text x="581" y="520" fill="#e6b64b" font-size="55" font-weight="700">13 interviews</text>
+    <text x="581" y="578" fill="#f1f3f5" font-size="36">Semi-structured</text>
+    <path d="M980 530 H1083 M1062 509 L1083 530 L1062 551" fill="none" stroke="#e6b64b" stroke-width="4"/>
+    <text x="1140" y="454" fill="#aeb9c0" font-size="29" letter-spacing="2">INTERFACES</text>
+    <text x="1140" y="518" fill="#f1f3f5" font-size="43">Touch</text>
+    <text x="1140" y="573" fill="#f1f3f5" font-size="43">Voice</text>
+    <text x="1140" y="628" fill="#f1f3f5" font-size="43">Gesture</text>
+    <rect x="80" y="710" width="1440" height="108" rx="14" fill="#192126"/>
+    <text x="118" y="780" fill="#e6b64b" font-size="48" font-weight="700">Design implication: suitability depends on context.</text>
+    <text x="86" y="864" fill="#aeb9c0" font-size="25">Research summary · Behaviour &amp; Information Technology · 2026</text>
+  </g>
+</svg>
